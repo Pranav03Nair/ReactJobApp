@@ -16,7 +16,7 @@ import EditJobPage from "./pages/EditJobPage";
 const App = () => {
   // Add New Job
   const addJob = async (newJob) => {
-    const res = await fetch("/api/jobs.json", {
+    const res = await fetch("/api/jobs", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
