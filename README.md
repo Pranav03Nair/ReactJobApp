@@ -20,7 +20,7 @@ A simple job application project built with React, TailwindCSS, and React Router
    npm install
 3. **Start the development server**
    ```bash
-  npm start
+     npm start
 
 ## Project Structure
 react-job-app/
