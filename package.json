@@ -1,0 +1,26 @@
+{
+  "name": "dev-job-app",
+  "version": "1.0.0",
+  "description": "Parent folder to Fire up Frontend and Server concurrently",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "client": "npm run dev --prefix frontend",
+    "server": "nodemon backend/server.js"
+  },
+  "author": "Pranav",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "eslint": "^8.57.1",
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.3",
+    "prettier-eslint": "^16.3.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  }
+}
