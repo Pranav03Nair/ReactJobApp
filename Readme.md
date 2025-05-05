@@ -2,8 +2,7 @@
 
 Dev Job App is a full-stack web application designed to help developers find jobs and employers post job listings. It features a React-based frontend, a Node.js/Express backend, and MongoDB for data storage. The app provides a seamless user experience for browsing, adding, editing, and deleting job listings.
 ![image](https://github.com/user-attachments/assets/392a6f70-ba8b-4675-bfa1-ff063266367b)
-![image](https://github.com/user-attachments/assets/e67d3d0e-76ab-48f9-9a02-f258b2823c4e)
-
+![image](https://github.com/user-attachments/assets/4fa7b54c-205c-4883-8b14-a0cc08af9eb0)
 ---
 
 ## Table of Contents
